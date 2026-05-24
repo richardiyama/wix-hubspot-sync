@@ -69,7 +69,7 @@ External API
 
 Installation
 1. Clone Repository
-git clone https://github.com/your-username/wix-hubspot-sync.git
+git clone https://github.com/richardiyama/wix-hubspot-sync.git
 cd wix-hubspot-sync
 
 2. Backend Setup
